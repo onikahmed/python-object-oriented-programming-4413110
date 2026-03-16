@@ -25,6 +25,7 @@ print(type(n1))
 print(type(n2))
 
 # TODO: compare two types together
-
+print(type(b1)==type(b2))
+print(type(b1)==type(n2))
 
 # TODO: use isinstance to compare a specific instance to a known type
